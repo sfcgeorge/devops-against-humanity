@@ -18,548 +18,550 @@ A cron job that reboots the server every 5 minutes.
 
 A custom kernel with Frontpage Extensions installed.
 
-A former MENSA member
+A former MENSA member.
 
-A Github Outage
+A Github Outage.
 
-A global write lock
+A global write lock.
 
-A home-rolled systemd replacement
+A home-rolled systemd replacement.
 
-A JAR full of spaghetti
+A JAR full of spaghetti.
 
 A mobile web 2.0 Rich Interned Application.
 
-A Null-modem cable
+A Null-modem cable.
 
-A Piñata full of error messages
+A Piñata full of error messages.
 
-A proof that P=NP written in BASIC
+A proof that P=NP written in BASIC.
 
-A Scrum Master
+A Scrum Master.
 
-A self-aware PHP script
+A self-aware PHP script.
 
-A shared root password
+A shared root password.
 
-A Snowflake server
+A Snowflake server.
 
-A squirrel with a taste for fiber
+A squirrel with a taste for fiber.
 
-A turducken made entirely of bash scripts
+A turducken made entirely of bash scripts.
 
-Agony-Driven Development
+Agony-Driven Development.
 
-An angry badger with an electromagnet on its back
+An angry badger with an electromagnet on its back.
 
-An army of chaos monkeys, all carrying flamethrowers
+An army of chaos monkeys, all carrying flamethrowers.
 
-An epic caffeine bender
+An epic caffeine bender.
 
-An Exchange email loop
+An Exchange email loop.
 
-An untested restore process
+An untested restore process.
 
-An old Being acquired by Oracle
+Being acquired by Oracle.
 
-Apache 1.2 running as root
+An old Apache 1.2 running as root.
 
-Brogrammers
+Brogrammers.
 
 Bullshit.io
 
-Business logic in PowerPoint slides
+Business logic in PowerPoint slides.
 
-CAP Theorem
+CAP Theorem.
 
-Catastrophic Failure as a Service
+Catastrophic Failure as a Service.
 
-Cloud 2.0
+Cloud 2.0.
 
-Cloud-based business strategy
+Cloud-based business strategy.
 
-Command-line magic
+Command-line magic.
 
-Continuous Disintegration
+Continuous Disintegration.
 
-Continuous integration
+Continuous integration.
 
-Copypasta
+Copypasta.
 
-Shareware
+Shareware.
 
-Degraded performance in some AWS availability zones
+Degraded performance in some AWS availability zones.
 
-Developers
+DevOps.
 
-DevOps
+Digital Ocean.
 
-Digital Ocean
+Edward Snowden.
 
-Edward Snowden
-
-Epoch time in milliseconds
+Epoch time in milliseconds.
 
 fuckedcompany.com
 
-Functional programming
+Functional programming.
 
-Git
+Git.
 
-Golang
+Golang.
 
-Growth hacking
+Growth hacking.
 
-Hacker News
+Hacker News.
 
-Hand-crafted artisanal x86 assembly code
+Hand-crafted artisanal x86 assembly code.
 
-Heartbleed
+Heartbleed.
 
-Hypervisors running hypervisors running hypervisors
+Hypervisors running hypervisors running hypervisors.
 
-IE6
+IE6.
 
-Larry Ellison
+Larry Ellison.
 
-Leaky abstractions
+Leaky abstractions.
 
-LinkedIn
+LinkedIn.
 
-Magic Smoke
+Magic Smoke.
 
-Maven downloading the entire internet
+Maven downloading the entire internet.
 
-MongoDB
+MongoDB.
 
-More buzzwords than you can shake a scrum at
+More buzzwords than you can shake a scrum at.
 
-Mutation of immutable data
+Mutation of immutable data.
 
-Netscape Navigator 3.2 support
+Netscape Navigator 3.2 support.
 
-Node.js
+Node.js.
 
-NoOps
+NoOps.
 
-NoSQL
+NoSQL.
 
-NullPointerException: null
+NullPointerException: null.
 
-O'Reilly
+O'Reilly.
 
-OpenSSL
+OpenSSL.
 
-Our Release Engineer
+Our Release Engineer.
 
-PagerDuty configured with a random number generator
+PagerDuty configured with a random number generator.
 
-Parsing HTML with regex
+Parsing HTML with regex.
 
-Patents
+Patents.
 
-Perl 6
+Perl 6.
 
-Posting on Etsy's codeascraft blog
+Private keys in /var/www.
 
-Private keys in /var/www
+Python.
 
-Python
+Python datetime module.
 
-Python datetime module
+Rebasing the entire fucking repo.
 
-Rebasing the entire fucking repo
+RecruiterFail.
 
-RecruiterFail
+Ruby.
 
-Ruby
+Running out of IPv4 addresses.
 
-Running out of IPv4 addresses
+Sadness as a Service.
 
-Sadness as a Service
+Stack trace generator.
 
-Stack trace generator
+Sysadmins.
 
-Sysadmins
+Tech Recruiters.
 
-Tech Recruiters
+The Cult of Mac.
 
-The Cult of Mac
+The last remaining Multics server on Earth.
 
-The last remaining Multics server on Earth
+The next Y2K.
 
-The next Y2K
+The NSA.
 
-The NSA
+The Sales & Marketing department.
 
-The Sales & Marketing department
+The Stanford of Canada.
 
-The Stanford of Canada
+The world's only fully-functional ROFLcopter.
 
-The world's only fully-functional ROFLcopter
+Thought leadership.
 
-Thought leadership
+Twitter.
 
-Twitter
+Unicode errors.
 
-Unicode errors
+Unknown source in your stack trace.
 
-Unknown source in your stack trace
+UUCP.
 
-UUCP
-
-VisualBasic DLLs
+VisualBasic DLLs.
 
 Waiting for console.aws.amazon.com...
 
-Web scale
+Web scale.
 
-Windows Vista
+Windows Vista.
 
-Windows XP
+Windows XP.
 
-Windows ME
+Windows ME.
 
-Windows 95
+Windows 95.
 
-Women in tech
+Women in tech.
 
-Write-only code
+Write-only code.
 
-Yet another package manager
+Yet another package manager.
 
-Zombie processes
+Zombie processes.
 
-Vim
+Vim.
 
-Emacs
+Emacs.
 
-The terminal
+The terminal.
 
-Segfaults
+Segfaults.
 
-Kernel panic on boot
+Kernel panic on boot.
 
-Borked
+Borked.
 
 Eating noodles out of a coffee mug with pliers.
 
-Halt and Catch Fire bug
+Halt and Catch Fire bug.
 
-When holding down the mouse button freezes the whole OS
+When holding down the mouse button freezes the whole OS.
 
-JavascriptOS
+JavascriptOS.
 
-Therac-25
+Therac-25.
 
-Magic / More Magic
+Magic / More Magic.
 
 That old server everyone's afraid to reboot in case it doesn't start again.
 
-Bugs that are actual bugs
+Bugs that are actual bugs.
 
 The finger protocol.
 
 rm -rf /
 
-A fork bomb with real forks
+A fork bomb with real forks.
 
 Too Big Data.
 
 Half open TCP connections.
 
-Steve Ballmer wielding a battleaxe
+Steve Ballmer wielding a battleaxe.
 
-A 50k line Bash script that's achieved self awareness
+A 50k line Bash script that's achieved self awareness.
 
-Gigadevops
+Gigadevops.
 
-Enterprise Grade Bash scripts
+Enterprise Grade Bash scripts.
 
-Agile
+Agile.
 
-High Availability
+High Availability.
 
-Map-Reduce
+Map-Reduce.
 
 Erlang.
 
-a non-ironic BSOD
+A non-ironic BSOD.
 
-Fail early, fail often
+Fail early, fail often.
 
-a routing loop
+A routing loop.
 
-a queue with no consumers
+A queue with no consumers.
 
-Bitcoin mining
+Bitcoin mining.
 
-A firewall full of holes
+A firewall full of holes.
 
-An uncontrollable deluge of emails
+An uncontrollable deluge of emails.
 
-I heard about it on hacker news
+I heard about it on hacker news.
 
-Ycombinator
+YCombinator.
 
-a jailbroken iPad
+A jailbroken iPad.
 
 "Fuck it, we'll do it live!"
 
-Nokogiri Gem
+Nokogiri Gem.
 
-a cold cup of coffee
+A cold cup of coffee.
 
-UTF-7
+UTF-7.
 
-unlimited data plan
+Unlimited data plan.
 
-out-of-band access
+Out-of-band access.
 
-kill -9
+kill -9.
 
-Dogecoin
+Dogecoin.
 
-Kernel panic
+Kernel panic.
 
-Lolcats
+Lolcats.
 
-A server rack full of crushed dreams
+A server rack full of crushed dreams.
 
-Monads
+Monads.
 
-Elastic Load Balancers
+Elastic Load Balancers.
 
-Hyper Text Coffee Pot Control Protocol
+Hyper Text Coffee Pot Control Protocol.
 
-Full-stack developer
+Full-stack developer.
 
 A new printer.
 
-A potato
+A potato.
 
-Git Blame
+Git blame.
 
-Developers! Developers! Developers! Developers!
+Developers! Developers! Developers!
 
-De-linting source code
+De-linting source code.
 
-Significant whitespace
+Significant whitespace.
 
-secret sauce
+Secret sauce.
 
 # What is this used for?
 
 Beating the server into submission with your bare hands.
 
-Merge Conflicts
+Merge Conflicts.
 
-Unplugging a server and waiting to see who complains
+Unplugging a server and waiting to see who complains.
 
-a torrent of Torrenters torrenting
+A torrent of Torrenters torrenting.
 
-COBOL
+COBOL.
 
-Rebooting All The Things
+Rebooting All The Things.
 
-DNS
+DNS.
 
-Animated GIF
+Animated GIF.
 
-PC LOAD LETTER
+PC LOAD LETTER.
 
-Dust Bunnies
+Dust Bunnies.
 
-Linus Torvalds
+Linus Torvalds.
 
-That XKCD comic about sysadmins
+That XKCD comic about sysadmins.
 
-A pimply faced youth with nothing to lose
+A pimply faced youth with nothing to lose.
 
-Hate driven development
+Hate driven development.
 
-Lotus123
+Lotus123.
 
-/dev/null as a service
+/dev/null as a service.
 
-Hackathons
+Hackathons.
 
-GNU/Linux
+GNU/Linux.
 
-SQLite
+SQLite.
 
-Leap second bug
+Leap second bug.
 
-The fucking JVM
+The fucking JVM.
 
-Tor
+Tor.
 
 Committing from the bar.
 
 Servers that follow daylight savings time.
 
-Temporary hotfixes
+Temporary hotfixes.
 
-Your private browsing history
+Your private browsing history.
 
 Wearing protection during peer programing.
 
-year 2038
+Year 2038.
 
-rsync
+rsync.
 
-cowsay
+cowsay.
 
-profanity in the git log
+Profanity in the git log.
 
-FAT32
+FAT32.
 
-sudo
+sudo.
 
-A Certified SCRUM Master
+A Certified SCRUM Master.
 
-Forcing push to master
+Forcing push to master.
 
-raspberryPI
+RaspberryPI.
 
-continuous incineration
+Continuous incineration.
 
-The gentle sound of weeping drifting from the server room
+The gentle sound of weeping drifting from the server room.
 
-eventual consistency
+Eventual consistency.
 
-Pinging the broadcast address
+Pinging the broadcast address.
 
-Ethernet
+Ethernet.
 
-Piping /var/log/messages to Twitter
+Piping /var/log/messages to Twitter.
 
-A pseudorandom number generator
+A pseudorandom number generator.
 
-phpMyAdmin
+phpMyAdmin.
 
-CEOs with root access
+CEOs with root access.
 
-Re-implementing TCP over UDP
+Re-implementing TCP over UDP.
 
-Haskell
+Haskell.
 
-WONTFIX
+WONTFIX.
 
-Piping random scripts from the internet into bash
+Piping random scripts from the internet into bash.
 
-Production deployments that depend on GitHub
+Production deployments that depend on GitHub.
 
-Webscale
+Webscale.
 
-Using Brain Fuck in production
+Using Brain Fuck in production.
 
-The Ballmer Peak
+The Ballmer Peak.
 
-A 1996 Java applet
+A 1996 Java applet.
 
-Sparkly Devops Princess
+Sparkly Devops Princess.
 
-git merge --force
+git merge --force.
 
-A literal cluster fuck
+A literal cluster fuck.
 
-The library that imports all other libraries
+The library that imports all other libraries.
 
-An entirely commented out file
+An entirely commented out file.
 
 A pull request with a winking smiley ;)
 
-Syntactic sugar
+Syntactic sugar.
 
-Monkeypatching
+Monkeypatching.
 
-Little Bobby Tables
+Little Bobby Tables.
 
-OAuth
+OAuth.
 
-packet loss
+Packet loss.
 
-losing the root password
+Losing the root password.
 
-buffer overflow
+Buffer overflow.
 
 StackOverflow is offline?!
 
 Penetration test
 
-two single quotes
+Two single quotes.
 
-0-day exploits
+0-day exploits.
 
-syntax error
+Syntax error.
 
-Out of bounds exception
+Out of bounds exception.
 
-NSA FOIA request
+NSA FOIA request.
 
-Actually reading the manual
+Actually reading the manual.
 
-Flux Capacitor
+Flux Capacitor.
 
-10 years since last update
+10 years since last update.
 
-rm /dev/null
+rm /dev/null.
 
-Legacy Code that you're terrified of deleting
+Legacy Code that you're terrified of deleting.
 
-HTML5 vs Flash
+HTML5 vs Flash.
 
-Sudo: make me a sandwich
+Sudo: make me a sandwich.
 
-Java's Syntax
+Java's Syntax.
 
-The Travelling Salesman Problem
+The Travelling Salesman Problem.
 
-The Genius Bar
+The Genius Bar.
 
-That Goddamn Paperclip
+That Goddamn Paperclip.
 
-The waterfall model
-
-NaN
+The waterfall model.
 
 Spaces and tabs in the same file.
 
-LaTeX
+LaTeX.
 
-Turning it off and on again
+Turning it off and on again.
 
-Date formats other than yyyy-mm-dd
+Date formats other than yyyy-mm-dd.
 
-Classic Vi
+Classic Vi.
 
 NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batman!
 
-Netscape Navigator
+Netscape Navigator.
 
-Adobe
+Adobe.
 
-Microsoft
+Microsoft.
 
-Apple
+Apple.
 
-Samsung
+Samsung.
 
-Oracle
+Oracle.
 
-Silk Road
+Silk Road.
 
-rm -rf Russian roulette
+rm -rf Russian roulette.
 
-javascript webservers
+javascript webservers.
 
-sysadmins sneaking Minecraft on the production server
+sysadmins sneaking Minecraft on the production server.
 
---force
+--force.
 
 Getting a Zune for Christmas.
 
 Relatives phoning for tech-support.
 
 Premature optimization.
+
+RTFM—Read The Fucking Manual!
+
+LMGTFY—Let Me Google That For You.
+
+Complaining about open-source and not sending a pull request.
+
+
