@@ -1,43 +1,51 @@
-devops-against-humanity
-=======================
+# Devops Against Humanity
 
 DevOps Against Humanity (an expansion for [Cards Against Humanity](http://www.cardsagainsthumanity.com))
 
 Because people on twitter are hilarious.
 
-### Card lists
+This repo is a fork, with the goals of modifying this expansion to:
 
-The google doc is here:
+a) Use a format suitable for use in the bbcards generator.
+b) Have a number of cards that [this print company](http://www.printerstudio.com/personalized/custom-playing-cards-gifts.html) can print.
+c) A better icon(s) that work on black and white cards.
+d) Cards that I think even non devopsy people can somewhat understand, hopefully.
+
+### Card Ideas
+
+There's a Google doc here:
 
 [Shared Google Doc](https://docs.google.com/spreadsheets/d/1OKgmjNz8l7skYfrbrOtYT6QmSf_y-BzZOWJWZC3tbUQ/edit#gid=0)
 
-Add your awesome ideas to the shared doc. Then copy it, edit it to your liking, sorting and removing anything you don't like. I ended up going with a standard of five underscores for each blank, since otherwise they can take up too much room on the cards.
+Add your awesome ideas to the shared doc. Then copy it, edit it to your liking, sorting and removing anything you don't like. Suggested going with a standard of five underscores for each blank, since otherwise they can take up too much room on the cards.
 
-I wouldn't be sad if someone wanted to merge in my cleanup/adds/changes to the shared doc, although I don't have time right now. This is the actual doc I used for generating the PDFs in this repo:
+This is a doc that the original repo owner used for generating their cards:
 
 [Doc used for first printing](https://docs.google.com/spreadsheets/d/1LEf6qE3FMKRvSWRrKb3m5gcVHmw7aQctbegrWbxEsfA/edit?usp=sharing)
 
-I've added CSVs to this repo preserving the state of the doc used for first printing and an export of the current state of the shared doc (which will be updated intermittently). I've no desire to approve all additions to the shared doc.
+I'm basing my modification of the original creator's expansion on these docs, but formatted for use in bbcards generator and cards selected to be hopefully vaguely understood by even non devopsy people.
+
+
+### Format for PDF Generation
+
+I'm using my [fork of bbcards](https://github.com/sfcgeorge/bbcards) for PDF generation. This means there is one plain text file for black cards, and one for white cards. Each card is separated by a blank line. Blanks are represented by 5 underscores, by convention. Inline HTML can be included to add basic formatting to the cards, but it is recommended to not overuse this.
+
 
 ### Generating the PDFs
 
-I googled around and found a number of generators, but most made smaller cards than I wanted. Then I found [this thread on boardgamegeek](http://rpggeek.com/thread/1160850/bigger-blacker-cards-another-custom-cah-card-pdf-g)
+I [forked bbcards generator](https://github.com/sfcgeorge/bbcards) to add a bleed area as required by this printing company. So, with that fork and this repo of card files what you have to do to generate a PDF of the cards is:
 
-Either install https://github.com/bbcards/bbcards somewhere yourself, or run it on this site: http://biggerblackercards.com
+1) Install Ruby, tested on 2.1 but 1.9.X should work fine too. The script uses Helvetica font, which is included on Macs but I'm not sure what happens on Windows or Linux, perhaps a compatible Helvetica derivative is bundled somewhere.
+2) CD into this repo's directory, so the bbcards generator can pick up the icon files.
+3) `ruby /path/to/your/clone/of/bbcards/bbcards.rb -l -p -n "Devops Against Humanity" -d .`
+4) You will then need to convert the PDF into PNG images to send to the printer, use a high DPI for sharp text. The print company recommends at least 300 DPI which is alright, but go for 1200 DPI.
 
-Because I wanted to use a different custom logo on white cards vs black, I made two PDFs. That turned out to be good since I needed to print the black cards in color for them to look good, while the white ones were fine in black & white. When I wanted only one, I just made sure the other side (black or white) was blank.
-
-I went with the rectangular 2.5"x3.5" poker size cards because I want to be able to mix them in with the official cards.
 
 ### Printing
 
-I put the PDFs on a USB stick and had them printed on 110lb cardstock at Kinko's. Any print shop should be able to do this. Cards Against Humanity ([in their official printing directions](http://www.cardsagainsthumanity.com/pdf/CAH_MainGame.pdf)) suggests going with at least 80lb cardstock. Cutting ~300 cards on the slicing machine took about 45min because I wanted them to look fairly consistent. I could only stack 4 sheets at a time; at 5, the cuts were no longer clean.
+I chose [this printing company](http://www.printerstudio.com/personalized/custom-playing-cards-gifts.htmlruby /Users/sfcgeorge/Documents/Projects/Design/bbcards/bbcards.rb -l -p -d .) because they will print a lot of cards (234) for very cheap ($21.54). They offer 310gsm cardstock with linnen texture very similar to the official cards, and in the same poker size with rounded corners. So if you print this expansion with them it should match the official cards fairly closely. My [fork of bbcards](https://github.com/sfcgeorge/bbcards) generates the correct bleed area for this printer.
 
-Cards Against Humanity also suggests printing plain black on the back of the black cards. I made an all-black page in OpenOffice and exported it to PDF. 
 
-### Pull requests accepted!
+### Licence
 
-It would be cool if someone designed awesome card backs for black and white DAH cards. Obviously many more awesome cards could be created. Print all you want, because I am done operating that slicing machine at this point. :)
-
-From the CAH website: "Cards Against Humanity is available under a Creative Commons BY-NC-SA 2.0 license. That means you can use and remix the game for free, but you can’t sell it. Please do not steal our name or we will smash you."
-
+From the CAH website: "Cards Against Humanity is available under a Creative Commons BY-NC-SA 2.0 license. That means you can use and remix the game for free, but you can’t sell it. Please do not steal our name or we will smash you." This version is called Devops Against Humanity and isn't being sold. It is intended that you buy the original game from the source, then make this expansion to add.
