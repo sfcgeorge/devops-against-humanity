@@ -6,10 +6,10 @@ Because people on twitter are hilarious.
 
 This repo is a fork, with the goals of modifying this expansion to:
 
-a) Use a format suitable for use in the bbcards generator.
-b) Have a number of cards that [this print company](http://www.printerstudio.com/personalized/custom-playing-cards-gifts.html) can print.
-c) A better icon(s) that work on black and white cards.
-d) Cards that I think even non devopsy people can somewhat understand, hopefully.
+a. Use a format suitable for use in the bbcards generator.
+b. Have a number of cards that [this print company](http://www.printerstudio.com/personalized/custom-playing-cards-gifts.html) can print.
+c. A better icon(s) that work on black and white cards.
+d. Cards that I think even non devopsy people can somewhat understand, hopefully.
 
 ### Card Ideas
 
@@ -35,10 +35,10 @@ I'm using my [fork of bbcards](https://github.com/sfcgeorge/bbcards) for PDF gen
 
 I [forked bbcards generator](https://github.com/sfcgeorge/bbcards) to add a bleed area as required by this printing company. So, with that fork and this repo of card files what you have to do to generate a PDF of the cards is:
 
-1) Install Ruby, tested on 2.1 but 1.9.X should work fine too. The script uses Helvetica font, which is included on Macs but I'm not sure what happens on Windows or Linux, perhaps a compatible Helvetica derivative is bundled somewhere.
-2) CD into this repo's directory, so the bbcards generator can pick up the icon files.
-3) `ruby /path/to/your/clone/of/bbcards/bbcards.rb -l -p -n "Devops Against Humanity" -d .`
-4) You will then need to convert the PDF into PNG images to send to the printer, use a high DPI for sharp text. The print company recommends at least 300 DPI which is alright, but go for 1200 DPI.
+1. Install Ruby, tested on 2.1 but 1.9.X should work fine too. The script uses Helvetica font, which is included on Macs but I'm not sure what happens on Windows or Linux, perhaps a compatible Helvetica derivative is bundled somewhere.
+2. CD into this repo's directory, so the bbcards generator can pick up the icon files.
+3. `ruby /path/to/your/clone/of/bbcards/bbcards.rb -l -p -n "Devops Against Humanity" -d .`
+4. You will then need to convert the PDF into PNG images to send to the printer, use a high DPI for sharp text. The print company recommends at least 300 DPI which is alright, but go for 1200 DPI.
 
 
 ### Printing
