@@ -6,10 +6,10 @@ Because people on twitter are hilarious.
 
 This repo is a fork, with the goals of modifying this expansion to:
 
-a. Use a format suitable for use in the bbcards generator.
-b. Have a number of cards that [this print company](http://www.printerstudio.com/personalized/custom-playing-cards-gifts.html) can print.
-c. A better icon(s) that work on black and white cards.
-d. Cards that I think even non devopsy people can somewhat understand, hopefully.
+* Use a format suitable for use in the bbcards generator.
+* Have a number of cards that [this print company](http://www.printerstudio.com/personalized/custom-playing-cards-gifts.html) can print.
+* A better icon(s) that work on black and white cards.
+* Cards that I think even non devopsy people can somewhat understand, hopefully.
 
 ### Card Ideas
 
